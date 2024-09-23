@@ -1,1 +1,2 @@
-# Calculo-de-descuento-pyton
+# temperatura-con-funciones
+# EDISON REMACHE DE PRIMER SEMESTE DE FUNDAMENTOS DE PROGRAMACION PARELELO E
