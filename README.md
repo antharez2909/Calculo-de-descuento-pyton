@@ -1,2 +1,2 @@
-# temperatura-con-funciones
+# calculo de descuento
 # EDISON REMACHE DE PRIMER SEMESTE DE FUNDAMENTOS DE PROGRAMACION PARELELO E
